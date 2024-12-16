@@ -1,6 +1,6 @@
 ﻿<br>
 <h1 align="center">Hello 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave hand" width="30px">, I'm Harsha
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave hand" width="30px">, I'm Uday Bhaskar
 </h1>
 
 ### About me
@@ -23,10 +23,6 @@
 ![](https://skillicons.dev/icons?i=express "Express js")
 ![](https://skillicons.dev/icons?i=mongodb "MongoDB")
 ![](https://skillicons.dev/icons?i=mysql "MySQL")
-![](https://skillicons.dev/icons?i=php "PHP")
-![](https://skillicons.dev/icons?i=rust "Rust")
-![](https://skillicons.dev/icons?i=dart "Dart")
-![](https://skillicons.dev/icons?i=flutter "Flutter")
 ![](https://skillicons.dev/icons?i=tailwindcss "TailwindCSS")
 
 ---
@@ -38,7 +34,6 @@
 ![](https://skillicons.dev/icons?i=netlify "Netlify")
 ![](https://skillicons.dev/icons?i=vscode "VSCode")
 ![](https://skillicons.dev/icons?i=figma "Figma")
-![](https://skillicons.dev/icons?i=neovim "Neovim")
 ![](https://skillicons.dev/icons?i=notion "Notion")
 ![](https://skillicons.dev/icons?i=npm "NPM")
 
@@ -56,12 +51,10 @@
 
 ---
 
-(* ### Contact me
+ ### Contact me
 
-[![](https://img.shields.io/badge/Email-brown?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:harsha.pss2005@gmail.com)
-[![](https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white "Telegram")](https://t.me/harsha12a)
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white "Twitter")](https://twitter.com/harsha12a)
-[![](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/harsha-pss/) *)
+[![](https://img.shields.io/badge/Email-brown?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:s.udaybhaskar116@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/uday-bhaskar-singipurapu/)
 
 <br>
 <div align="center>
